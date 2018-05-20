@@ -4,11 +4,12 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /**
- *
+ * these code was written at 02:54 pm, 20th may 2018.
  * @author @FgroupIndonesia.com
  */
 public class ComputerInformation {
 
+    
     private String machineID;
     private String hostName;
     private String osName;
