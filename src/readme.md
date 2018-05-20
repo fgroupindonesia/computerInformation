@@ -2,7 +2,7 @@
 ## a small java library that helps you to obtain hardware specific properties
 
 ##### :paperclip: WHAT KIND OF PROPERTIES ?
-Here are the complete listing
+Here are the complete listing :
 - Host Name
 - OS Name
 - OS Version
@@ -56,4 +56,5 @@ machine.getTimeZone();
 
 
 ## :star2: CREDITS
-
+All of these works are returned back to [FGroupIndonesia](http://fgroupindonesia.com)
+to obtain more details please contact through **Whatsapp : +62857-9556-9337** for the proper consultation schedules.
