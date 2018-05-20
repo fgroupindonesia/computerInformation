@@ -56,5 +56,5 @@ machine.getTimeZone();
 
 
 ## :star2: CREDITS
-All of these works are returned back to [FGroupIndonesia](http://fgroupindonesia.com)
-to obtain more details please contact through **Whatsapp : +62857-9556-9337** for the proper consultation schedules.
+- all of these works are returned back to [FGroupIndonesia.com](http://fgroupindonesia.com)
+- more details please contact through **Whatsapp : +62857-9556-9337** for the proper consultation schedules.
