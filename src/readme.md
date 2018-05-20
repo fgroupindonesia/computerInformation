@@ -1,7 +1,7 @@
-# COMPUTER INFORMATION
+# :computer: COMPUTER INFORMATION
 ## a small java library that helps you to obtain hardware specific properties
 
-##### WHAT KIND OF PROPERTIES ?
+##### :paperclip: WHAT KIND OF PROPERTIES ?
 Here are the complete listing
 - Host Name
 - OS Name
@@ -35,13 +35,25 @@ Here are the complete listing
 - Hotfix
 - Network Cards
 
-##### HOW TO USE ?
+##### :question: HOW TO USE ?
 * Include the ComInfoLib.jar right into your active project
 * write the below quick code
 * choose which properties you'd like to
 
 
-## QUICK CODE
+## :ok_hand: QUICK CODE
+```
+// put this import statement in the top of your code
+import utils.ComputerInformation;
 
-## CREDITS
+// use the below code for the execution
+ComputerInformation machine = new ComputerInformation();
+machine.getOSName();
+//or
+machine.getTimeZone();
+// and so on...
+```
+
+
+## :star2: CREDITS
 
